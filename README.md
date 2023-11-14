@@ -20,21 +20,25 @@ The "WordPress Core Data Viewer with Metadata" is a Next.js application designed
    ```bash
    git clone https://github.com/jimmylee827/Wordpress-Core-Data-Viewer-with-Metadata.git
    ```
-2. **Navigate to the Project Directory:**:
+2. **Navigate to the Project Directory**:
    ```bash
    cd Wordpress-Core-Data-Viewer-with-Metadata
    ```
-3. **Install Dependencies:**:
+3. **Install Dependencies**:
    ```bash
    npm install
    ```
-4. **Environment Configuration:**:
+4. **Environment Configuration**:
    Create a .env.local file in the project root and add your database connection details:
    ```bash
    DB_HOST=your_database_host
    DB_USER=your_database_user
    DB_PASSWORD=your_database_password
    DB_NAME=your_database_name
+   ```
+5. **Start the Development Server**:
+   ```bash
+   npm run dev
    ```
 
 ## Usage
