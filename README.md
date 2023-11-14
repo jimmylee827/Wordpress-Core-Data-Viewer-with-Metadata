@@ -22,7 +22,7 @@ The "WordPress Core Data Viewer with Metadata" is a Next.js application designed
    ```
 2. **Navigate to the Project Directory:**:
    ```bash
-   cd Wordpress-Core-Data-Viewer-with-Metadata/wp-data-manager
+   cd Wordpress-Core-Data-Viewer-with-Metadata
    ```
 3. **Install Dependencies:**:
    ```bash
